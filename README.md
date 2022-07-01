@@ -20,5 +20,6 @@ To proceed:
 - flask db_create
 - flask db_seed
 - flask run
+
 Then open the "code_snippets.ipynb" to check the API with code snippets showing an example for each use case. 
 
